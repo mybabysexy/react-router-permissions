@@ -1,7 +1,3 @@
-es
-/*.js
-build
-
 node_modules
 coverage
 
